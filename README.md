@@ -11,5 +11,5 @@
 
 ---
 
-# KS병원 종합관리시스템
+# KS병원 전산실 종합관리시스템
 [프로젝트 이동](https://github.com/Daun0808/KS_Project)
